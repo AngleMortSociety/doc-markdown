@@ -488,7 +488,7 @@ Mais si vous placez un astérisque `*` ou un caractère de soulignement `_` entr
 
 	\*ce texte est entouré d'astérisques litéraux\*
 
-#### Code
+#### Étendue de code
 
 Pour indiquer une étendue de code, entourez-la de guillemets inverses <code>`</code> (ou quotes inverses). Contrairement aux blocs de code, une étendue de code signale du code à l’intérieur d’un paragraphe. Par exemple :
 
