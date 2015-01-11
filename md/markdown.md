@@ -28,6 +28,7 @@ Il existe aussi :
 Il n'y a pas de format officiel pour le Markdown mais on peut utiliser l'une des extensions suivantes :
 
 - markdown
+- mkdown
 - mdown
 - mkdn
 - md
@@ -36,6 +37,8 @@ Il n'y a pas de format officiel pour le Markdown mais on peut utiliser l'une des
 - mdtxt
 - mdtext
 - text
+
+Il est à noter que l'extension `text` n'est pas conseillée et que l'extension la plus utilisée est celle-ci : `md`.
 
 ## Syntaxe
 
@@ -488,7 +491,7 @@ Mais si vous placez un astérisque `*` ou un caractère de soulignement `_` entr
 
 	\*ce texte est entouré d'astérisques litéraux\*
 
-#### Étendue de code
+#### Étendues de code
 
 Pour indiquer une étendue de code, entourez-la de guillemets inverses <code>`</code> (ou quotes inverses). Contrairement aux blocs de code, une étendue de code signale du code à l’intérieur d’un paragraphe. Par exemple :
 
