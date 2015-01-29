@@ -29,14 +29,9 @@ Il n'y a pas de format officiel pour le Markdown mais on peut utiliser l'une des
 
 - markdown
 - mkdown
-- mdown
 - mkdn
-- md
 - mkd
-- mdwn
-- mdtxt
-- mdtext
-- text
+- md
 
 Il est à noter que l'extension `text` n'est pas conseillée et que l'extension la plus utilisée est celle-ci : `md`.
 
