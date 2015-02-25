@@ -5,7 +5,7 @@
 
 Le [Markdown][] est un langage de balisage léger créé en 2004 par [John Gruber][] et [Aaron Swartz][]. Son but est d'offrir une syntaxe facile à lire et à écrire. Un document formaté selon Markdown devrait pouvoir être publié comme tel, en texte, sans donner l’impression qu’il a été marqué par des balises ou des instructions de formatage.
 
-Un document rédigé en Markdown peut être converti facilement en HTML. Bien que la syntaxe Markdown ait été influencée par plusieurs filtres de conversion de texte existants vers le HTML (dont *Setext1*, *atx2*, *Textile*, *reStructuredText*, *Grutatext3* et *EtText4*), la source d’inspiration principale est le format du courrier électronique en mode texte.
+Un document rédigé en Markdown peut être converti facilement en HTML. Bien que la syntaxe Markdown ait été influencée par plusieurs filtres de conversion de texte existants vers le HTML (dont *Setext1*, *atx2*, *Textile*, *reStructuredText*, *Grutatext3* et *EtText4*), la principale source d’inspiration est le format du courrier électronique en mode texte.
 
 Markdown est un logiciel libre sous licence BSD.
 
@@ -25,15 +25,15 @@ Il existe aussi :
 
 ## Extension
 
-Il n'y a pas de format officiel pour le Markdown mais on peut utiliser l'une des extensions suivantes :
+Il n’existe pas de format officiel pour le Markdown mais on peut utiliser l'une des extensions suivantes :
 
-- markdown
-- mkdown
-- mkdn
-- mkd
 - md
+- mkd
+- mkdn
+- mkdown
+- markdown
 
-Il est à noter que l'extension `text` n'est pas conseillée et que l'extension la plus utilisée est celle-ci : `md`.
+Il est à noter que l'extension `text` n'est pas conseillée et que l'extension la plus utilisée est `md`.
 
 ## Syntaxe
 
@@ -386,7 +386,7 @@ Deux styles de liens sont possibles : les liens incorporés au texte et les lien
 
 ##### Liens incorporés
 
-Un lien incorporé au texte est composé d'une paire de crochets `[]` où est indiqué le nom du lien, suivi d'une paire de parenthèses `()` où doit être placée l'URL du lien. Optionnellement, il est possible d'ajouter un titre entouré de guillemets droits `"` (il sera affiché au survol de la souris). Par exemple :
+Un lien incorporé au texte est composé d'une paire de crochets `[]` où est indiqué le nom du lien, suivi d'une paire de parenthèses `()` où doit être placée l'URL du lien. Optionnellement, il est possible d'ajouter un titre entouré de guillemets droits `"` (il sera alors affiché au survol de la souris). Par exemple :
 
 	Ceci est [un exemple](http://exemple.com/ "Titre") de lien incorporé.
 
