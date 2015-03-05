@@ -3,7 +3,7 @@
 
 ## Présentation
 
-Ceci est une documentation sur le langage de balisage Markdown pour la communauté. Il s'agit d'une traduction non litérale mais complète du site officiel de [John Gruber][].
+Ceci est une documentation pour la communauté sur le langage de balisage Markdown. Il s'agit d'une traduction non littérale mais complète du site officiel de John Gruber.
 
 Ce document est sous licence [**Creative Commons**][] (CC BY-SA). Toute personne qui le souhaite peut participer à sa réalisation, sa traduction ou sa diffusion. Le contenu complet est mis à disposition sur [GitHub][] afin de centraliser toutes les ressources.
 
