@@ -700,7 +700,7 @@ Il serait difficile de faire un tour complet de toutes les variantes du Markdown
 [John Gruber]: https://fr.wikipedia.org/wiki/John_Gruber "John Gruber - Wikipedia"
 [Aaron Swartz]: http://fr.wikipedia.org/wiki/Aaron_Swartz "Aaron Swartz - Wikipedia"
 [MultiMarkdown]: http://fletcherpenney.net/multimarkdown/ "MultiMarkdown - Site officiel"
-[GitHub Flavored Markdown]: https://help.github.com/articles/github-flavored-markdown/ "GitHub Flavored Markdown"
+[GitHub Flavored Markdown]: https://help.github.com/categories/writing-on-github/ "GitHub Flavored Markdown"
 [GitHub]: https://github.com "GitHub - Site officiel"
 [phpMarkdown]: https://michelf.ca/projects/php-markdown/ "phpMarkdown - Site officiel"
 [Pandoc]: http://johnmacfarlane.net/pandoc/ "Pandoc - Site officiel"
